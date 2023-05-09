@@ -5,7 +5,6 @@ for i in a:
         cnt += 1
 print("L : {}".format(a))
 print("count : {}".format(cnt))
-
 #print("avg : {}, max : {}, min : {}".format(sum(a) / len(a), max(a), min(a)))
 
 # n = int(input("총 학생들의 수를 입력하세요 : "))

@@ -5,7 +5,6 @@ for i in s:
     if s == c:
         cnt += 1
 print("count : {}".format(cnt))
-
 # s = input("Enter one string : ")
 # c = input("Enter one character : ")
 # cnt = 0
